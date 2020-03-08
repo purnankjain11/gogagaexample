@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_match"
+        android:icon="@drawable/ic_heart"
+        android:title="@string/title_match" />
+
+    <item
+        android:id="@+id/navigation_chats"
+        android:icon="@drawable/ic_chats"
+        android:title="@string/title_chats" />
+
+    <item
+        android:id="@+id/navigation_alerts"
+        android:icon="@drawable/ic_alerts"
+        android:title="@string/title_alerts" />
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/title_settings" />
+
+</menu>
