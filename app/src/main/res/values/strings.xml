@@ -4,4 +4,16 @@
     <string name="title_chats">Chats</string>
     <string name="title_alerts">Alerts</string>
     <string name="title_settings">Settings</string>
+    <string name="profile_name">CHANDAN BHANDARI</string>
+    <string name="profile_profession">Software Engineer</string>
+    <string name="Rs">\u20B9</string>
+    <string name="claim_rupee"><u>CLAIM \u20B9 100 CASH</u></string>
+    <string name="refer_friends">Refer Friends</string>
+    <string name="_0_flames">0 Flames</string>
+    <string name="did_you_know">Did you know?</string>
+    <string name="my_profile">My Profile</string>
+    <string name="preferences">Preferences</string>
+    <string name="support">Support</string>
+    <string name="speak_to_ceo">Speak to the CEO</string>
+    <string name="leaderboard">Leaderboard</string>
 </resources>
